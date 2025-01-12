@@ -1,3 +1,3 @@
-print("hello python users")
+prit("hello python users")
 
 print("2nd time")
